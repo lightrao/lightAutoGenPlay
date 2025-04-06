@@ -2,6 +2,7 @@
 % source /Users/developrao/Documents/LightTechZen/lightAutoGenPlay/.venvAutoGen/bin/activate
 % uv pip install -U autogenstudio
 % uv pip install PySocks
+% uv pip install "httpx[socks]"
 % uv pip freeze > requirements.txt
 
 % autogenstudio ui --port 8081 --appdir ./myapp
