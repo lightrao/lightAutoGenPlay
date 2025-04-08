@@ -1,5 +1,5 @@
 % python3 -m venv .venvAutoGen    
-% source /Users/developrao/Documents/LightTechZen/lightAutoGenPlay/.venvAutoGen/bin/activate
+% source /Users/developrao/Documents/LightTechZen/lightAutoGenPlay/.venvAutoGen/bin/activate (for powershell: .\.venvAutoGen\Scripts\Activate)
 % uv pip install -U autogenstudio
 % uv pip install PySocks
 % uv pip install "httpx[socks]"
