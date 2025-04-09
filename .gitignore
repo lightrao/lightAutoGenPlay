@@ -1,3 +1,4 @@
-.venvAutoGen
+.venvAutoGen*
 myapp
 .coding
+.vscode
