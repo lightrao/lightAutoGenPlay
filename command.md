@@ -14,4 +14,10 @@ or
 for powershel: > pip install openai
 % uv pip freeze > requirements.txt
 
+for windows powershell:
+% $env:OPENAI_API_KEY = "4olvz...i6u4RS42j0A"
+
+for mac zsh:
+% export OPENAI_API_KEY = "4olvz...i6u4RS42j0A"
+
 % autogenstudio ui --port 8081 --appdir ./myapp
